@@ -1,2 +1,5 @@
 # MiscelaneousUnity
-Cosas diversas de Unity para mostrar como parte del portfolio
+Some cool stuff that I made inside Unity.
+
+The most significant for me is the radial system. 
+
